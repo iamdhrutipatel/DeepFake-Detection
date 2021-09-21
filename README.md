@@ -1,1 +1,50 @@
-# DeepFake-Detection
+# DeepFake Detection - Simplified!
+DeepFake Detection Web-App 🖥 using Deep Learning(ResNext and LSTM), Flask and ReactJs where you can predict whether a video is FAKE Or REAL along with the confidence ratio. 
+
+## Explanation of the Project
+- We've created a DeepFake Detection system which intends to detect DeepFake videos using Deep Learning techniques like ResNext and LSTM. Also integrated the  trained model with the Frontend UI which uses ReactJs and Backend uses Flask.
+
+- The Dataset we've used to train our model is [here](https://github.com/yuezunli/celeb-deepfakeforensics).
+
+- To find our trained model follow this [link](https://drive.google.com/drive/folders/1-zErGZ9T89TplQs3ws4QVRFlqE-ljW6l?usp=sharing).
+
+- To train our model we've took help from [here](https://github.com/abhijitjadhav1998/Deepfake_detection_using_deep_learning/tree/master/Model%20Creation).
+  Thanks to them!
+
+- To understand the project in a better way it is structured in below format:
+```
+DeepFake-Detection
+    |
+    |--- XYZ
+    |--- ABC
+    |--- Project-Setup.txt
+```
+
+3. Project-Setup.txt - In this file we've written all the necessary steps to run this project.
+
+## Project Set-up Guidelines
+To set up the project. All the steps and guidelines regarding that are listed [here](https://github.com/JuhieMotiani/DeepFake-Detection/blob/main/Project-Setup.txt).
+
+## Note
+
+## Our Results
+
+1) Accuracy of the Model:
+<img width="250" height="50" alt="Model Accuracy" src="https://user-images.githubusercontent.com/58872872/133935912-1def7615-6538-4c88-9134-8f94a9367965.png">
+
+2) Training and Validation Accuracy Graph:
+<img width="378" alt="Accuracy Graph" src="https://user-images.githubusercontent.com/58872872/133936040-4bfa44a7-45c5-499b-8a10-f253cbcab56c.png">
+
+3) Training and Validation Loss Graph:
+<img width="381" alt="Loss Graph" src="https://user-images.githubusercontent.com/58872872/133935983-b4d9275f-e841-4b69-86cd-79c770ea2aa1.png">
+
+4) Confusion Matrix:
+<img width="402" alt="Confusion Matrix" src="https://user-images.githubusercontent.com/58872872/133936080-d2b39804-4a99-47b8-8be4-87ba77161961.png">
+
+## Facing any issues???
+Feel free to [open an issue](https://github.com/JuhieMotiani/DeepFake-Detection/issues/new?assignees=&labels=Query&title=Query). We'll be glad to help you.❤️
+
+## Developers
+1. [Juhie Motiani](https://github.com/JuhieMotiani)
+2. [Dhruti Patel](https://github.com/iamdhrutipatel)
+3. [Anjali Patel](https://github.com/anjali-patel21)
