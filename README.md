@@ -15,17 +15,25 @@ DeepFake Detection Web-App 🖥 using Deep Learning(ResNext and LSTM), Flask and
 ```
 DeepFake-Detection
     |
-    |--- XYZ
-    |--- ABC
+    |--- DeepFake_Detection
     |--- Project-Setup.txt
+    |--- Requiremnts.txt
 ```
+1. DeepFake_Detection - This is the root folder.
 
-3. Project-Setup.txt - In this file we've written all the necessary steps to run this project.
+2. Project-Setup.txt - In this file we've written all the necessary steps to run this project.
+
+3. Requirements.txt - Python libraries needed for this project. 
 
 ## Project Set-up Guidelines
-To set up the project. All the steps and guidelines regarding that are listed [here](https://github.com/JuhieMotiani/DeepFake-Detection/blob/main/Project-Setup.txt).
+To set up the project. All the steps and guidelines regarding that are listed [here](https://github.com/iamdhrutipatel/DeepFake-Detection/blob/main/Project-Setup.txt).
 
 ## Note
+1. In the root folder(DeepFake_Detection), create a new folder called "Uploaded_Files".
+
+2. In the root folder(DeepFake_Detection), create a new folder called "model" and add the [model file](https://drive.google.com/drive/folders/1-zErGZ9T89TplQs3ws4QVRFlqE-ljW6l?usp=sharing) in it.
+
+<b>Add these folders to the root folder(DeepFake_Detection). Since, the path has already been given to the "server.py" file and also to avoid any path related errors.</b>
 
 ## Our Results
 
@@ -42,7 +50,7 @@ To set up the project. All the steps and guidelines regarding that are listed [h
 <img width="402" alt="Confusion Matrix" src="https://user-images.githubusercontent.com/58872872/133936080-d2b39804-4a99-47b8-8be4-87ba77161961.png">
 
 ## Facing any issues???
-Feel free to [open an issue](https://github.com/JuhieMotiani/DeepFake-Detection/issues/new?assignees=&labels=Query&title=Query). We'll be glad to help you.❤️
+Feel free to [open an issue](https://github.com/iamdhrutipatel/DeepFake-Detection/issues/new?assignees=&labels=Query&title=Query). We'll be glad to help you.❤️
 
 ## Developers
 1. [Juhie Motiani](https://github.com/JuhieMotiani)
