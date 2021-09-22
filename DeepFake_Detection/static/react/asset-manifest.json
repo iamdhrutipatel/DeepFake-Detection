@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/react/css/main.03d2e280.chunk.css",
+    "main.js": "/static/react/js/main.ecd30300.chunk.js",
+    "main.js.map": "/static/react/js/main.ecd30300.chunk.js.map",
+    "runtime-main.js": "/static/react/js/runtime-main.4a76277e.js",
+    "runtime-main.js.map": "/static/react/js/runtime-main.4a76277e.js.map",
+    "js/2.76399d02.chunk.js": "/static/react/js/2.76399d02.chunk.js",
+    "js/2.76399d02.chunk.js.map": "/static/react/js/2.76399d02.chunk.js.map",
+    "js/3.5223a77c.chunk.js": "/static/react/js/3.5223a77c.chunk.js",
+    "js/3.5223a77c.chunk.js.map": "/static/react/js/3.5223a77c.chunk.js.map",
+    "../../templates/index.html": "/static/react/../../templates/index.html",
+    "css/main.03d2e280.chunk.css.map": "/static/react/css/main.03d2e280.chunk.css.map",
+    "js/2.76399d02.chunk.js.LICENSE.txt": "/static/react/js/2.76399d02.chunk.js.LICENSE.txt",
+    "media/bgimage.14b90305.jpg": "/static/react/media/bgimage.14b90305.jpg",
+    "media/facesearch.030ad8c1.svg": "/static/react/media/facesearch.030ad8c1.svg"
+  },
+  "entrypoints": [
+    "js/runtime-main.4a76277e.js",
+    "js/2.76399d02.chunk.js",
+    "css/main.03d2e280.chunk.css",
+    "js/main.ecd30300.chunk.js"
+  ]
+}
