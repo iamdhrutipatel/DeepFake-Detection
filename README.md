@@ -18,12 +18,15 @@ DeepFake-Detection
     |--- DeepFake_Detection
     |--- Project-Setup.txt
     |--- Requiremnts.txt
+    |--- Video Demonstartion
 ```
 1. DeepFake_Detection - This is the root folder.
 
 2. Project-Setup.txt - In this file we've written all the necessary steps to run this project.
 
 3. Requirements.txt - Python libraries needed for this project. 
+
+4. Video Demonstartion - It shows the whole working of project. 
 
 ## Project Set-up Guidelines
 To set up the project. All the steps and guidelines regarding that are listed [here](https://github.com/iamdhrutipatel/DeepFake-Detection/blob/main/Project-Setup.txt).
@@ -48,6 +51,8 @@ To set up the project. All the steps and guidelines regarding that are listed [h
 
 4) Confusion Matrix:
 <img width="402" alt="Confusion Matrix" src="https://user-images.githubusercontent.com/58872872/133936080-d2b39804-4a99-47b8-8be4-87ba77161961.png">
+
+To see the working of the project, follow this [link]().
 
 ## Facing any issues???
 Feel free to [open an issue](https://github.com/iamdhrutipatel/DeepFake-Detection/issues/new?assignees=&labels=Query&title=Query). We'll be glad to help you.❤️
