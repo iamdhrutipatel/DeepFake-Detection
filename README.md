@@ -54,9 +54,6 @@ To set up the project. All the steps and guidelines regarding that are listed [h
 
 - To see the working of the project, follow this [link](https://github.com/iamdhrutipatel/DeepFake-Detection/blob/main/Implementation%20Video.mp4).
 
-## Facing any issues???
-Feel free to [open an issue](https://github.com/iamdhrutipatel/DeepFake-Detection/issues/new?assignees=&labels=Query&title=Query). We'll be glad to help you.❤️
-
 ## Developers
 1. [Juhie Motiani](https://github.com/JuhieMotiani)
 2. [Dhruti Patel](https://github.com/iamdhrutipatel)
